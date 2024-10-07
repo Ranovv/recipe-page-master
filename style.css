@@ -19,6 +19,50 @@ body {
     color: hsl(30, 10%, 34%);
 }
 
-.recipe-image {
-    border-radius: 10px;
+
+
+.preparation_time{
+    
+    background-color: hsl(330, 100%, 98%);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.preparation_time h2{
+    color:  hsl(332, 51%, 32%)
+}
+.preparation_time span{
+    color: hsl(24, 5%, 18%);
+    font-weight: 700;
+
+}
+.preparation_time li{
+    margin-bottom: 5px;
+    color: hsl(30, 10%, 34%)
+}
+.Ingredients{
+    border-bottom: 1px solid;
+     color: hsl(30, 54%, 90%)
+    
+
+}
+.Ingredients h2{
+    color: hsl(332, 51%, 32%);
+}
+.Ingredients span{
+    font-weight: 10;
+   color:  hsl(30, 10%, 34%)
+}
+.Instructions {
+    border-bottom: 1px solid;
+    color :hsl(30, 54%, 90%)
+}
+.Instructions h2{
+    color: hsl(332, 51%, 32%);
+
+}
+.Instructions span{
+    color: hsl(30, 10%, 34%)
 }
